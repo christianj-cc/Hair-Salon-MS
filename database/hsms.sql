@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 07, 2026 at 03:09 AM
+-- Generation Time: Jun 07, 2026 at 03:37 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -1206,7 +1206,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `role`, `status`, `email_verified_at
 (5, 'Loren Odiong', 'jlodiong@gmail.com', 'frontdesk', 'active', NULL, '$2y$12$Oej1yjfBUpmiAi3mIJRSuuWdxFjsdlKolEza4JYVp34NGEHQlYBve', NULL, '2026-03-14 18:08:08', '2026-04-20 02:49:54', NULL, NULL, '2026-03-20 04:01:15', NULL),
 (6, 'John Llorie Sarmiento', 'jlsarmiento@gmail.com', 'customer', 'active', NULL, '$2y$12$4gokYu4SHx5XGIr73gFEyeBsucaDrIfVn3E0LAirWcgu8FnGAFzR6', NULL, '2026-03-20 17:12:25', '2026-05-14 21:28:21', NULL, NULL, '2026-03-20 04:01:15', NULL),
 (7, 'Hazeljoy Hingpit', 'hjhingpit@gmail.com', 'customer', 'active', NULL, '$2y$12$tgvHEcOmn6iHHcifsA0QNOVNZE2YoiRLAE603/r8JBUW/DEMy0PqO', NULL, '2026-03-20 22:56:44', '2026-03-30 05:22:23', NULL, NULL, '2026-03-20 04:01:15', NULL),
-(8, 'Christian Cahilig', 'christianc.xviii@gmail.com', 'customer', 'active', NULL, '$2y$12$cxk1eQLczkk1NtEHfTav2eTVfqp7WOtqfVajdDYlo4X/orEQxY6PC', 'KClwwv2deSTptzkp7yOgPVuePM170ndAizwefGrvAYk7CkvtW0s7DrGWWUa6', '2026-04-03 15:33:20', '2026-05-14 22:47:45', NULL, NULL, '2026-03-20 04:01:15', NULL),
+(8, 'Christian Cahilig', 'christianc@gmail.com', 'customer', 'active', NULL, '$2y$12$cxk1eQLczkk1NtEHfTav2eTVfqp7WOtqfVajdDYlo4X/orEQxY6PC', 'KClwwv2deSTptzkp7yOgPVuePM170ndAizwefGrvAYk7CkvtW0s7DrGWWUa6', '2026-04-03 15:33:20', '2026-05-14 22:47:45', NULL, NULL, '2026-03-20 04:01:15', NULL),
 (9, 'Annika Dumalogdog', 'adumalogdog@gmail.com', 'customer', 'active', NULL, '$2y$12$bGSzjJfhd/3aEEZSGCuPZ.AQ4D7GAjTgxt6udF2m4tN3W6CW4a6YC', NULL, '2026-04-20 01:17:03', '2026-05-09 18:27:52', NULL, NULL, '2026-03-20 04:01:15', NULL),
 (12, 'James Cahilig', 'cjcahilig@gmail.com', 'tech', 'active', NULL, '$2y$12$feJUKbXr.u0iy.iE2cnolO9jLidc8LdqPoaFbraYVCIjMck9LnC8u', NULL, '2026-04-20 03:59:57', '2026-04-20 04:01:15', NULL, '2026-04-20 03:59:57', '2026-04-20 04:01:15', '2026-04-27 03:59:57'),
 (13, 'Hanna Bishi', 'rbishi@gmail.com', 'tech', 'active', NULL, '$2y$12$3hzbXOSxyHZ/Sv5Xv0Y6m.F4TNtYLwIRRzAYI0k9ChmDbTj3pksRq', NULL, '2026-04-20 16:40:51', '2026-05-09 18:27:20', NULL, '2026-04-20 16:40:51', '2026-04-20 16:42:55', '2026-04-27 16:40:51'),
