@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none !important;
+}
+
+.hero-section {
+    background-image: url('/storage/assets/Group 133.png');
+    background-size: cover;
+    background-position: top right;   /* ← change from 'right' to 'top center' */
+    background-repeat: no-repeat;
+    min-height: 700px;
+}
+
+.about-hero-section {
+    background-image: url('/storage/app/public/assets/hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    height: 250px; /* adjust to your desired height */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
