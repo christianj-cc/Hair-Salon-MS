@@ -2,7 +2,7 @@
 
 ### Appointment Scheduling and Business Operations Platform
 
-The Hair Salon Management System is a web-based application developed to streamline salon operations by centralizing appointment scheduling, customer management, employee administration, inventory tracking, and sales monitoring.
+The Hair Salon Management System is a web-based application developed to streamline salon operations by centralizing appointment scheduling and booking, customer management, employee administration, inventory tracking, and sales monitoring.
 
 ## Overview
 
@@ -131,14 +131,6 @@ Start the development server:
 ```bash
 php artisan serve
 ```
-
-## Future Improvements
-
-- Online booking integration
-- SMS appointment reminders
-- Customer loyalty system
-- Analytics dashboard enhancements
-- Mobile-responsive improvements
 
 ## Contributors
 
