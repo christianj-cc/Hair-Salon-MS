@@ -146,10 +146,9 @@ This project was developed as part of a group project.
 
 ### Team Members
 
-- James [Last Name]
-- Member 2
-- Member 3
-- Member 4
+- Christian James Cahilig
+- Bai Fatima Andong
+- Karylle Mish Gellica
 
 ## My Contributions
 
